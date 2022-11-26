@@ -1,0 +1,119 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    padding: 0;
+
+
+}
+
+.container {
+    max-width: 1000px;
+    max-height: 891px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.slider {
+    /* background-color: #81e4ed; */
+    padding: 20px 0 40px;
+    background-image: url(../images/background_img.jpg);
+    margin: 0;
+    min-height: 1000px;
+}
+
+.slider__inner {
+    
+}
+
+.slider__item {
+    background-image: url(../images/134883.jpg);
+    min-height: 540px;
+    block-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+
+.slider__item-1 {
+    background-image: url(../images/luffy1.jpg);
+    min-height: 540px;
+    block-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.slider__item-2 {
+    background-image: url(../images/zorro.jpg);
+    min-height: 540px;
+    block-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.slider__item-3 {
+    background-image: url(../images/sandzhi.jpg);
+    min-height: 540px;
+    block-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.slider__item-title-3 {
+    color: rgb(211, 15, 15);
+    margin-left: -60px;
+
+}
+
+ .slider__item-4 {
+    background-image: url(../images/200.gif);
+    min-height: 540px;
+    block-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    border-image-repeat: repeat;
+}
+
+p {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 57px;
+    color: #000;
+    padding-top: 100px;
+    margin-left: 80px;
+    width: 350px;
+    height: 300px;
+}
+
+.slick-dots li button {
+    width: 14px;
+    height: 14px;
+    /* background-color: rgba(98, 98, 98, 50%); */
+    background-color: rgb(255, 5, 5);
+    border-radius: 50%;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #fff;
+}
+
+.slick-dots li button::before {
+    display: none;
+}
+
+.slick-dots li {
+    margin: 0 9px;
+    width: auto;
+    height: auto;
+
+}

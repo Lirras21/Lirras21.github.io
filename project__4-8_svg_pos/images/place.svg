@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" width="29" height="29">
+	<title>Forma 1</title>
+	<defs>
+		<image  width="29" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdBAMAAACkvXo8AAAAAXNSR0IB2cksfwAAAC1QTFRFi4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+ji4+je52BsgAAAA90Uk5TgP/AAKBAID/Q4GB/z7/fAr9idwAAAHJJREFUeJxjYBQEA2VjMDBgIMh3YBEUYmBE8INNBQWMDYnn4zA/vRwECuB8CC3AwNikISippKi8SAkEFHCaH70bBDbA+XD9Z+8Iyt29iOCjm4/DPjgf3TxCfLh9oaERKOYbGxvRgB/AAAaLAxiMja0YGAC4zz3Gg4rWxAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #8b90a3 } 
+	</style>
+	<path id="Forma 1" fill-rule="evenodd" class="s0" d="m0.5 0h14.2v28.4h-14.2zm8.9 3.5h3.6v3.6h-3.6zm0 7.1h3.6v3.5h-3.6zm0 7.1h3.6v3.6h-3.6zm-7.1-14.2h3.6v3.5h-3.6zm0 7.1h3.6v3.6h-3.6zm0 7.1h3.6v3.6h-3.6zm14.2-8.9h12.4v1.8h-12.4zm0 19.5h3.5v-7.1h5.4v7.1h3.5v-16h-12.4z"/>
+	<use id="Шар 1" href="#img1" x="0" y="0"/>
+</svg>

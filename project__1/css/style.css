@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #74C12F;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #A371A1;
+}
+
+h2 {
+    color: #C12F2F;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+h1,h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    background-color: #2DDBD3;
+    color: #FFF300;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    margin-top: 29px;
+    padding-top: 29px;
+    padding-right: 52px;
+    padding-left: 52px;
+    padding-bottom: 43px;
+}
+.container{
+    max-width : 900px;
+    margin: 0 auto 0 auto;
+}

@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+}
+.myLove {
+    /* background-color: rgba(255, 255, 52); */
+    background-image: url(./images/msg-1613679151-115.jpg);
+    width: 700px;
+    height: 1000px;
+    
+}
+.myLove_text{
+    color: rgb(187, 9, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

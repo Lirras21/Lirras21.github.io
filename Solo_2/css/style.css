@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+
+}
+
+header {}
+
+.headerImages {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 0;
+    background-color: #2f2f2f;
+}
+
+.headerImages-1 {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    top: 50%;
+    left: -10px;
+    margin: -50px 0 0 -50px;
+}
+
+.headerImages-2 {
+   
+}
+.imagesPlate{
+    position: static;
+    top: 50%;
+    left: -10px;
+    margin: -50px 0 0 -50px;
+    
+}
